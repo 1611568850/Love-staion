@@ -1,0 +1,12 @@
+.w{
+    width: 745px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+body{
+    /* position:absolute;left:0;top:0;width: 100%; */
+    background-image: url(/img/wl01.jpg);
+    background-size: 70%;
+}
